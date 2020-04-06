@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "code_name.h": "c",
+        "sdl_ttf.h": "c"
+    }
+}
